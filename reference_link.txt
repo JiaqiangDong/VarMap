@@ -1,0 +1,111 @@
+1. Arabidopsis_thaliana: 
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/arabidopsis_thaliana/dna/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa.gz 
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/arabidopsis_thaliana/Arabidopsis_thaliana.TAIR10.37.gff3.gz
+
+gunzip *.gz
+
+
+2.Brassica_oleracea：
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/brassica_oleracea/dna/Brassica_oleracea.v2.1.dna.toplevel.fa.gz 
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/brassica_oleracea/Brassica_oleracea.v2.1.37.gff3.gz
+
+gunzip *.gz
+
+
+3.Brassica_rapa：
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/brassica_rapa/dna/Brassica_rapa.IVFCAASv1.dna.toplevel.fa.gz 
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/brassica_rapa/Brassica_rapa.IVFCAASv1.37.gff3.gz
+
+gunzip *.gz
+
+4.Fragaria_vesca
+
+Get genome file:
+curl -O ftp://ftp.bioinfo.wsu.edu/species/Fragaria_vesca/Fvesca-genome.v4.0.a1/assembly/Fragaria_vesca_v4.0.a1.fasta.gz
+
+Get annotation file:
+curl -O ftp://ftp.bioinfo.wsu.edu/species/Fragaria_vesca/Fvesca-genome.v4.0.a1/genes/Fragaria_vesca_v4.0.a1.transcripts.gff3.gz
+
+gunzip *.gz
+
+5.Glycine_max:
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/glycine_max/dna/Glycine_max.V1.0.dna.toplevel.fa.gz
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/glycine_max/Glycine_max.V1.0.37.gff3.gz 
+
+gunzip *.gz
+
+
+6.Oryza_sativa:
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/oryza_sativa/dna/Oryza_sativa.IRGSP-1.0.dna.toplevel.fa.gz
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/oryza_sativa/Oryza_sativa.IRGSP-1.0.37.gff3.gz
+
+gunzip *.gz
+
+
+7.Medicago_truncatula:
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/medicago_truncatula/dna/Medicago_truncatula.MedtrA17_4.0.dna.toplevel.fa.gz 
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/medicago_truncatula/Medicago_truncatula.MedtrA17_4.0.37.gff3.gz 
+
+gunzip *.gz
+
+
+8.Solanum_lycopersicum:
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/solanum_lycopersicum/dna/Solanum_lycopersicum.SL2.50.dna.toplevel.fa.gz
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/solanum_lycopersicum/Solanum_lycopersicum.SL2.50.37.gff3.gz
+
+gunzip *.gz
+
+9.Sorghum_bicolor:
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/sorghum_bicolor/dna/Sorghum_bicolor.Sorghum_bicolor_v2.dna.toplevel.fa.gz 
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-37/plants/gff3/sorghum_bicolor/Sorghum_bicolor.Sorghum_bicolor_v2.37.gff3.gz
+
+gunzip *.gz
+
+
+10.zea_mays:
+
+Get genome file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-31/plants/fasta/zea_mays/dna/Zea_mays.AGPv3.dna.toplevel.fa.gz 
+
+Get annotation file:
+curl -O ftp://ftp.ensemblgenomes.org/pub/release-31/plants/gff3/zea_mays/Zea_mays.AGPv3.31.gff3.gz
+
+gunzip *.gz
+
+
+
+
+
+
