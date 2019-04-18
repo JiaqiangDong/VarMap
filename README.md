@@ -1,4 +1,8 @@
 # VarMap
+
+Please cite the pipeline with the following paper:
+Dong, J. , Tu, M. , Feng, Y. , Zdepski, A. , Ge, F. , Kumar, D. , Slovin, J. P. and Messing, J. (2019), Candidate gene identification of existing or induced mutations with pipelines applicable to large genomes. Plant J, 97: 673-682. doi:10.1111/tpj.14153
+
 1. Ask the administer of the cluster to register an account and create a working directory named analysis under the home directory. All the input and output files will be stored there. 
 
 Type:mkdir analysis
